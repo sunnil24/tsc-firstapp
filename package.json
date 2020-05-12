@@ -1,0 +1,10 @@
+{
+  "name": "fetchjson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sunil Srivastava <sunilsri.srivastava3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
